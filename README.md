@@ -1,0 +1,1 @@
+This is a simple yet powerful calculator application designed for everyday arithmetic. It provides a clean, intuitive interface for performing basic calculations quickly and efficiently. Perfect for developers looking for a straightforward example of a functional UI application.
